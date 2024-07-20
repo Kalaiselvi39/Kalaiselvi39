@@ -4,7 +4,7 @@ Hi👋, I'm Kalaiselvi
 
 👯 I’m looking to collaborate on your project.
 
-📫 How to reach me: linkedin.com/in/kalaiselvi-s-8b827b29b
+📫 How to reach me: [linkedin.com/in/kalaiselvi-s-8b827b29b](https://www.linkedin.com/in/kalaiselvi-s-8b827b29b/)
 <!--
 ** Kalaiselvi ** is a ✨ _special_ ✨ repository 
 
@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->  
