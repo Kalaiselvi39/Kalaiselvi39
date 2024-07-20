@@ -1,5 +1,10 @@
-## Hi there 👋
+Hi👋, I'm Kalaiselvi
 
+🌱 I’m currently learning Frontend Developer
+
+👯 I’m looking to collaborate on your project.
+
+📫 How to reach me: linkedin.com/in/kalaiselvi-s-8b827b29b
 <!--
 ** Kalaiselvi ** is a ✨ _special_ ✨ repository 
 
